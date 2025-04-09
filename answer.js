@@ -65,4 +65,7 @@ fruits.pop()
 // soal 6
 fruits.shift()
 
+// soal 7
+console.log(fruits.length);
+
 console.log(fruits);
