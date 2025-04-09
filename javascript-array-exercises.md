@@ -116,6 +116,7 @@ Example output → `"Apple,Banana,Orange"`
 
 ```javascript
 // your code here
+console.log(fruits.join(","));
 ```
 
 ---
