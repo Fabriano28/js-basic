@@ -71,4 +71,7 @@ console.log(fruits.length);
 // soal 8
 console.log(fruits.includes("Banana"));
 
+// soal 9
+console.log(fruits.indexOf("Orange"));
+
 console.log(fruits);
