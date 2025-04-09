@@ -1,3 +1,4 @@
+// object
 // soal 1
 const person = {
     name: "John",
@@ -42,4 +43,10 @@ person.greet = function () {
     return `Hi, my name is ${this.name}`;
 }
 
-console.log(person.greet())
+console.log(person.greet());
+
+// array
+// soal 1
+let fruits = ["Apple", "Banana", "Orange"];
+
+console.log(fruits[1]);
