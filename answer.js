@@ -59,4 +59,10 @@ fruits.push("Mango");
 // soal 4
 fruits.unshift("Grape");
 
+// soal 5
+fruits.pop()
+
+// soal 6
+fruits.shift()
+
 console.log(fruits);
