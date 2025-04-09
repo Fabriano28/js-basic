@@ -51,7 +51,7 @@ let fruits = ["Apple", "Banana", "Orange"];
 
 // soal 2
 console.log(fruits[0]);
-console.log(fruits[2]);
+console.log(fruits[fruits.length - 1]);
 
 // soal 3
 fruits.push("Mango");
