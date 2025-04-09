@@ -52,3 +52,11 @@ let fruits = ["Apple", "Banana", "Orange"];
 // soal 2
 console.log(fruits[0]);
 console.log(fruits[2]);
+
+// soal 3
+fruits.push("Mango");
+
+// soal 4
+fruits.unshift("Grape");
+
+console.log(fruits);
