@@ -26,8 +26,9 @@ Print the first and the last element of the `fruits` array.
 
 ```javascript
 // your code here
+console.log(fruits[0]);
+console.log(fruits[2]);
 ```
-
 ---
 
 ## 3. Add Element to Array

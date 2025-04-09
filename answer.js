@@ -49,4 +49,6 @@ console.log(person.greet());
 // soal 1
 let fruits = ["Apple", "Banana", "Orange"];
 
-console.log(fruits[1]);
+// soal 2
+console.log(fruits[0]);
+console.log(fruits[2]);
