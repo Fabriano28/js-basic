@@ -74,4 +74,7 @@ console.log(fruits.includes("Banana"));
 // soal 9
 console.log(fruits.indexOf("Orange"));
 
+// soal 10
+console.log(fruits.join(","));
+
 console.log(fruits);
