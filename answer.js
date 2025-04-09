@@ -68,4 +68,7 @@ fruits.shift()
 // soal 7
 console.log(fruits.length);
 
+// soal 8
+console.log(fruits.includes("Banana"));
+
 console.log(fruits);
